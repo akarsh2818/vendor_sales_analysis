@@ -9,7 +9,7 @@ This project analyzes vendor-wise sales performance using data from multiple Exc
 - **Notebook**: Python (Jupyter) used for SQL queries, EDA, and analysis
 - **Visualization**: Seaborn, Matplotlib (donut, bar, histogram, heatmap, scatter plots)
 - **Statistical Testing**: t-tests performed for hypothesis testing
-- **Dashboard**: Final output visualized using Power BI (optional)
+
 
 ## 🔧 Tools & Libraries
 
